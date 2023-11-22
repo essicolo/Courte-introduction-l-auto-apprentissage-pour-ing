@@ -1,0 +1,2 @@
+dose N,dose P,dose K,pH,prec 1,prec 2,prec 3,prec 4,prec 5,temp 1,temp 2,temp 3,temp 4,temp 5,soil P,soil K,soil Ca,soil Mg
+20,20,20,4.2,72,110,60,120,80,2.1,10,14,18,17,8.1e-5,1.6e-4,3.8e-4,2.8e-4
